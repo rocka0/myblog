@@ -1,7 +1,7 @@
 # Site settings
 description: A blog for passionate programmers
 baseurl: "/myblog" # the subpath of your site, e.g. /blog/
-url: "http://rocka0.github.io" # the base hostname & protocol for your site
+url: "http://rocka0.github.io/myblog" # the base hostname & protocol for your site
 
 # User settings
 username: Rocka0
