@@ -1,0 +1,37 @@
+---
+title: mathjax
+tags:
+- mathjax
+- web
+date: 2015-12-26T10:44:38+05:30
+layout: post
+categories: jekyll update
+description: > # this means to ignore newlines until "baseurl:"
+  This is my blog where I(rocka0) will talk about all cool stuff on programming
+---
+
+In this post, I'm gonna talk about mathjax!
+
+So what is mathjax? Mathjax allows you to do this:  $$a^2 + b^2 = c^2$$
+
+Basically, it allows you to render math equations. I think its pretty cool. Help in math posts!
+
+So lets get started!
+
+First, include a script tag in your html page which allows you to use mathjax:
+
+{% highlight html %}
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endhighlight %}
+
+Just copy the script tag from above
+
+Now, all you have to do to render mathjax equations is to put the equation between $ signs.
+
+Here's an example:
+
+$$ {\left(\frac{\sqrt x}{y^3}\right)} $$
+
+Have fun with your equations!
+
+$$ :wq $$

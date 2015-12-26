@@ -1,0 +1,26 @@
+---
+layout: post
+tags:
+- python
+title:  "Python : An amazing programming language"
+date:   2015-09-30 08:15:27
+categories: jekyll update
+description: > # this means to ignore newlines until "baseurl:"
+  This is my blog where I(rocka0) will talk about all cool stuff on programming
+---
+
+I have finished learning python and it is just the best programming language in the world to me.
+
+I can even begin to explain how simple it is to make programs with it. Here is an example of a calculator that adds two numbers which are typed in by the user.
+
+{% highlight python %}
+num1 = int(input("Enter your first number"))
+num2 = int(input("Enter your second number"))
+add = num1+num2
+# => This is the sum of both the numbers
+print(add)
+{% endhighlight %}
+
+Here is a video tutorial for the same :
+
+<iframe src="https://player.vimeo.com/video/140915579" width="500" height="281" frameborder="0">  </iframe>

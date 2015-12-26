@@ -1,0 +1,42 @@
+# Site settings
+description: A blog for passionate programmer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rocka0.github.io" # the base hostname & protocol for your site
+
+# User settings
+username: Rocka0
+user_description: Front + Back end Developer
+user_title: Rocka0
+email: tushar.chenan@outlook.com
+twitter_username: sharmano
+github_username: rocka0
+gplus_username:  lorem_ipsum
+disqus_username: rocka0
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+  - title: My webpage
+    url: http://rocka0.github.io
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
