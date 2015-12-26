@@ -8,7 +8,7 @@ username: Rocka0
 user_description: Front + Back end Developer
 user_title: Rocka0
 email: tushar.chenan@outlook.com
-twitter_username: 
+twitter_username:
 github_username: rocka0
 gplus_username:  lorem_ipsum
 disqus_username: rocka0
@@ -35,6 +35,8 @@ links:
     url: /tags
   - title: About Me
     url: /about
+  - title: Subscribe
+    url: /subscribe
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
