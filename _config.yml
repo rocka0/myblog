@@ -1,7 +1,7 @@
 # Site settings
 description: A blog for passionate programmers
 baseurl: "/myblog" # the subpath of your site, e.g. /blog/
-url: "http://rocka0.github.io/myblog" # the base hostname & protocol for your site
+url: "http://rocka0.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: Rocka0
@@ -30,11 +30,11 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: /myblog
+    url: /
   - title: Tags
-    url: /myblog/tags
+    url: /tags
   - title: About Me
-    url: /myblog/about
+    url: /about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
