@@ -30,13 +30,11 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: /myblog
   - title: Tags
-    url: /tags
+    url: /myblog/tags
   - title: About Me
-    url: /about
-  - title: My webpage
-    url: http://rocka0.github.io
+    url: /myblog/about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
