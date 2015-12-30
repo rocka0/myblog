@@ -12,6 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 What is Ruby on rails? It is a web framework for ruby. That means you can made web apps using ruby on rails like the example given here : ["the example"](http://foodpandapp.herokuapp.com)
 
+First, I wanna talk about how rails works. Rails is a MVC framework, meaning when we send a get request / post request etc, it hits the controller. Then, the controller interacts with the model(database) if needed and then renders the html webpage(the view). Hence we call it a Model, View and Controller framework!
+
 It is so cool and all it takes to make an amazing app is this :
 
 
