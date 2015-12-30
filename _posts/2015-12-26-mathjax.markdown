@@ -1,3 +1,6 @@
+
+
+
 ---
 title: mathjax
 tags:
@@ -24,13 +27,22 @@ First, include a script tag in your html page which allows you to use mathjax:
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endhighlight %}
 
-Just copy the script tag from above
+Just copy the script tag from above and put it in your html page
 
 Now, all you have to do to render mathjax equations is to put the equation between $ signs.
 
-Here's an example:
+For example:
 
-$$ {\left(\frac{\sqrt x}{y^3}\right)} $$
+If you wanted to write the equation x = -b + or - root b<sup>2</sup> - 4ac by 2a (the quadractic formula), you would put the following lines in between the dollar signs:
+
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+
+The \frac makes the first {} and second {} a fraction and the \sqrt makes the term inside the {} a root.
+
+Thus, the final equation looks like this:
+
+$$ 
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
 
 Have fun with your equations!
 
