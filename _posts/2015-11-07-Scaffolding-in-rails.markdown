@@ -25,4 +25,4 @@ The atrributes can be anything like firstname, lastname, email etc.
 The type can be a string, text, bool, integer, etc.
 Here is a quick demo of you to use a scaffold to generate all the <code>model, views and controllers</code> for a student
 
-<iframe src="http://showterm.io/94adb2195c5a7b2d9939e#fast" width="500" height="281" frameborder="0">  </iframe>
+<iframe src="http://showterm.io/53492b2f9b066afc3d634#fast" width="640" height="320" frameborder="0">  </iframe>
