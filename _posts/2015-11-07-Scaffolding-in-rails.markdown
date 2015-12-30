@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 Scaffolding is an easy way to get work done fast in ruby on rails. Scaffolding allows you to generate the <code> controller, model and views</code> all in one go.
 
 Scaffolding basically generates the 7 actions ( create, update, destroy, etc) for a given model. It is just designed to make developing faster.
-For beginners, it is OK to use but as you become more advanced, it is advised to hardcore a model, view and controller 
+For beginners, it is OK to use but as you become more advanced, it is advised to hardcode a model, view and controller 
 
 To generate a scaffold, all you have to do is run :
 {% highlight ruby %}
