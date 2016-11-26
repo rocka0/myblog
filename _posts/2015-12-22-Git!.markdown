@@ -4,7 +4,7 @@ title:  "Git! Version control"
 tags:
 - git
 - web
-date:   2015-12-22 08:04:27
+date:   2016-12-22 08:04:27
 categories: jekyll update
 description: > # this means to ignore newlines until "baseurl:"
   This is my blog where I(rocka0) will talk about all cool stuff on programming
