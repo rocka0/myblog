@@ -4,7 +4,7 @@ tags:
 - ruby
 - web
 title:  "Scaffolding in ruby on rails"
-date:   2015-09-30 08:15:27
+date:   2016-09-30 08:15:27
 categories: jekyll update
 description: > # this means to ignore newlines until "baseurl:"
   This is my blog where I(rocka0) will talk about all cool stuff on programming
