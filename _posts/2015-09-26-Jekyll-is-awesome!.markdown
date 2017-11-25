@@ -30,4 +30,4 @@ Here is a quick tutorial that helps you make a jekyll website after you have ins
 gem install jekyll
 {% endhighlight %}
 
-<iframe src="https://www.moovly.com/embed/b03ea104-5f1b-9ff5" width="800" height="450" frameborder="0">  </iframe>
+<iframe src="https://youtu.be/iWowJBRMtpc" width="800" height="450" frameborder="0">  </iframe>
