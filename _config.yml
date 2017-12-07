@@ -1,5 +1,5 @@
 # Site settings
-description: A blog for passionate programmers
+description: A blog written by Tush Chen
 baseurl: "/myblog/" # the subpath of your site, e.g. /blog/
 url: "http://rocka0.github.io/myblog" # the base hostname & protocol for your site
 
@@ -7,15 +7,15 @@ url: "http://rocka0.github.io/myblog" # the base hostname & protocol for your si
 username: Rocka0
 user_description: Front + Back end Developer
 user_title: Rocka0
-email: tushar.chenan@outlook.com
+email: tusky2002@gmail.com
 twitter_username:
 github_username: rocka0
-gplus_username:  lorem_ipsum
+gplus_username:  Tush_Chen
 disqus_username: rocka0
 
 # Build settings
 markdown: kramdown
-highlighter: pygements
+highlighter: rouge
 permalink: /:title/
 
 
