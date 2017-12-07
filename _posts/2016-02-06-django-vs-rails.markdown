@@ -8,7 +8,7 @@ tags:
 categories: ruby python
 description: > # this means to ignore newlines until "baseurl:"
   This is my blog where I(rocka0) will talk about all cool stuff on programming
-date: 2016-02-06T13:39:15+00:00
+date: 2017-02-06T13:39:15+00:00
 ---
 
 
