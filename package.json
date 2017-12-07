@@ -1,7 +1,7 @@
 {
-  "name": "willjekylltemplate",
+  "name": "Tushar's Blog",
   "version": "1.0.0",
-  "description": "My jekyll blog template.",
+  "description": "My blog.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
@@ -15,7 +15,6 @@
     "jekyll",
     "js"
   ],
-  "author": "Willian Justen de Vasconcellos",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
