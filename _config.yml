@@ -4,7 +4,7 @@ baseurl: "/myblog/" # the subpath of your site, e.g. /blog/
 url: "http://rocka0.github.io/myblog" # the base hostname & protocol for your site
 
 # User settings
-username: Rocka0
+username: Tushar Chenan
 user_description: Front + Back end Developer
 user_title: Rocka0
 email: tusky2002@gmail.com
