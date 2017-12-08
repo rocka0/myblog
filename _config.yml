@@ -1,5 +1,5 @@
 # Site settings
-description: This blog is written by a 10th grade kid
+description: This blog is written by this 10th grade kid
 baseurl: "/myblog/" # the subpath of your site, e.g. /blog/
 url: "http://rocka0.github.io/myblog" # the base hostname & protocol for your site
 
