@@ -5,6 +5,7 @@ url: "http://rocka0.github.io/myblog" # the base hostname & protocol for your si
 
 # User settings
 username: Tushar Chenan
+user_website: "http://rocka0.github.io"
 user_description: Front + Back end Developer
 user_title: Rocka0
 email: tusky2002@gmail.com
