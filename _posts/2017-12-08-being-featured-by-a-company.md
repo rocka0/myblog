@@ -63,7 +63,7 @@ All I could say was: **Hell yeah!**
 
 So I sent them some information about myself and what I wanted to do and become and guess what? They made the most **beautiful and descriptive** blog post about me:
 
-![enter image description here](https://lh3.googleusercontent.com/5cjAoJuy_9uN6rGpayMtEhbOy0HjBnmZ_fSUitN6VUfImdRbV19FTd66__hSQ2rI0B0eKsiyr4_3LE8Z4WHBx7Ax1lID8himyWF_A-E1Ko-DhDB_4fmCZGEkXCcUMl9LwjIYHW0RB7m-6y_byWkUp3-tiiedV3h0pkb7i4nPox3Kvq3M2owzRnOg1KhB0_S5pq2eoCcwpNmi2tNuR15pUoPGLAM4fN0ieqjS0draGzsSWY-zkbvBD-KpIot8z3MoPHEdWVYwQtbMOwfDfdfm2DLyke21q9I5vPN3iHmXH2DEPckc8XWW9B25uHzwuFpZCP6EWxaDJuP8sueMtTToXMa4zv35WjTvcaOQ3J--Mjk1cn0ChZTjfdY8qIdmHg2b3DvMq2u-1epf1zgFZq5wHMioO0mf8uTr5hDU2VSm8FFqArBW6BZYSJR1UaxwOQiVvdgxhs38_zFKgLY_SkToa_brpk_vOiNVtcYKPFNJ8sY2L0jo8qLFHYWbp1ZFknHpUFnzPd5uotHBpiD4I1NNtEc8yyj_bJJrpVEBDdsAgRt9_I-p8rZlW-AoYuI7brgDx027Ay2rmA9QA45Xb9JsTV31ApfWIwlVc6M=w1080-h866-no)
+![Internship Snap](https://photos-5.dropbox.com/t/2/AACU88yLfkImu_O03ujdH74IR5pViAxTrJ-T_2lB3FQ-uw/12/461376550/png/32x32/1/_/1/2/Capture.PNG/EL3Qzd0DGAQgBygH/3zylfe8Cg_IEp0NqxgmVMzfqXVlpppFdvYXg8pkr4Z8?preserve_transparency=1&size=1600x1200&size_mode=3)
 
 <br />
 You can read the [whole blog post here](https://blog.hasura.io/how-building-an-app-is-different-from-taking-programming-courses-a-15-yr-olds-story-c7725c59ccb4).
