@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting an Internship to Being featured in a Company's Blog"
+title: 'Getting an Internship to Being featured in a Company"s Blog'
 date: 2017-12-08 23:23:13
 tags:
 - Hasura
