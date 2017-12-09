@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Being featured by a Company in their Blog"
+title: "Getting an Internship to Being featured in a Company's Blog"
 date: 2017-12-08 23:23:13
 tags:
 - Hasura
@@ -8,7 +8,7 @@ tags:
 - Programming
 twitter_text:
 description: > # this means to ignore newlines until "baseurl:"
-  How Hasura decided to feature me in their Blog
+  How Hasura decided to not only give me an internship but also make a post about me
 ---
 
 Hello World
