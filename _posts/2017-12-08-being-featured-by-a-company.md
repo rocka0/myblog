@@ -2,7 +2,6 @@
 layout: post
 title: "Being featured by a Company in their Blog"
 date: 2017-12-08 23:23:13
-categories: Life Programming
 tags:
 - Hasura
 - Internship
