@@ -63,7 +63,7 @@ All I could say was: **Hell yeah!**
 
 So I sent them some information about myself and what I wanted to do and become and guess what? They made the most **beautiful and descriptive** blog post about me:
 
-![Internship Snap](https://s17.postimg.org/44ffluj1b/Capture.png)
+![Internship Snap](http://rocka0.github.io/myblog//assets/img/Capture.PNG)
 
 <br />
 You can read the [whole blog post here](https://blog.hasura.io/how-building-an-app-is-different-from-taking-programming-courses-a-15-yr-olds-story-c7725c59ccb4).
