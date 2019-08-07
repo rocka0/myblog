@@ -17,9 +17,9 @@ Welcome to my first blog post!
 
 Funnily, in my first blog post I will be talking about how [I](http://rocka0.github.io) was featured by [this](https://hasura.io/) company:
 
-![enter image description here](http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/v1/138836/Hasura_Image_refw4t.png)
+![enter image description here](https://miro.medium.com/max/1400/1*ktjzxxbT_pjHobyg7V_DuA.png)
 
-in their [blog post about me.](https://blog.hasura.io/how-building-an-app-is-different-from-taking-programming-courses-a-15-yr-olds-story-c7725c59ccb4?gi=be4939fde7ea) 
+in their [blog post about me.](https://medium.com/hasura/how-building-an-app-is-different-from-taking-programming-courses-a-15-yr-olds-story-c7725c59ccb4) 
 
 Also you shall find how I landed a spot in the [internship](https://hasura.io/education?utm_source=Medium&utm_medium=Blog&utm_campaign=imad%20stories&utm_content=Tushar#hpdf) given by [Hasura](http://hasura.io).
 
